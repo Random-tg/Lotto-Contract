@@ -1,0 +1,7 @@
+{
+  "name": "Random.tg",
+  "description": "Utility token of the decentralized lottery https://Random.tg. Try your chance to win 2x more!",
+  "image": "https://raw.githubusercontent.com/Random-tg/Lotto-Contract/main/randomlogo.png",
+  "symbol": "RANDOM",
+  "decimals": "9",
+}
